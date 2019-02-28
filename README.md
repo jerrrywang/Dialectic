@@ -1,6 +1,6 @@
 # Dialectic
 
-Dialectic is a news application that I built for the 2019 Stanford TreeHacks Hacakthon, built in Swift, Python, and Go. 
+Dialectic is a news application that I built for the 2019 Stanford TreeHacks Hacakthon, using Swift, Python, and Go. 
 
 We set out to resolve echo chambers and political polarization by generating objective news content for current events. I developed an extractive text summarization algorithm to analyze the commonalities among various news articles from across the political spectrum for a particular event. We reasoned that if all news articles—regardless of political affiliation—said the same thing about a particular issue, then whatever they said most likely represents "objective" news content. 
 
