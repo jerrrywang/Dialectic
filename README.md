@@ -10,7 +10,9 @@ For example, for the recent state abortion controversy, my algorithm would produ
 
 >With concerns that Roe v. Wade’s reversal is imminent, which would leave the abortion issue to the states, many states are moving to either codify the right to abortion or pass laws that would make abortion illegal should the decision be overturned. Lawmakers in Kentucky’s House of Representatives on Friday overwhelmingly passed a bill that would ban most abortions in the state if the U.S. Supreme Court overturns Roe v. Wade. The Kentucky House has passed a bill that would ban most abortions in the state if the U.S. Supreme Court overturns its decision legalizing the procedure nationwide.
 
->https://www.washingtonpost.com/health/2019/02/15/least-abortion-cases-are-steps-us-supreme-court-any-one-could-gut-roe-v-wade/, https://www.foxnews.com/politics/kentucky-house-passes-bill-banning-abortions-if-roe-v-wade-overturned, https://www.nytimes.com/2019/02/08/us/abortion-laws.html
+>Washington Post: https://goo.gl/s6qGPV
+>Fox News: https://goo.gl/KU4eNG
+>New York Times: https://goo.gl/uPLd4X
 
 The same algorithm could be run over a compiled list of all the headers from these articles, finding the header that is most agreeable with the generated summary. 
 
